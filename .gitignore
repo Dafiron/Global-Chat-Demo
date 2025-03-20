@@ -1,0 +1,30 @@
+# Entorno virtual
+venv_web/
+*.venv/
+env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Variables de entorno
+.env
+
+# IDE / Editor específicos
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Dependencias
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
